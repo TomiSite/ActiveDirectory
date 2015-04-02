@@ -1,7 +1,7 @@
 ############################################
 #Author:Lixiaosong
 #Email:lixs@ourgame.com;lixiaosong8706@gmail.com
-#For:检测Lync照片上传
+#For:根据HAB自动调整OU结构
 #Version:1.0
 ##############################################
 Import-Module activedirectory
